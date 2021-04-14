@@ -9,7 +9,8 @@
 ## git add -A
 ## git add 
 ## git branch 
-## git diff ``Detalhamento integral  do que foi feito em todos os arquivos``
+``Detalhamento integral  do que foi feito em todos os arquivos:``
+## git diff 
 ## git diff --name-only
 # [Revertendo modificações]()
 ## git revert --no-edit id do commit
